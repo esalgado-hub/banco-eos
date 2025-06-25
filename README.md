@@ -4,7 +4,7 @@ Sistema Bancário EOS
 
 # Desafio
 
-Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações: *depósito, saque e extrato*.
+Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações: **depósito, saque e extrato**.
 
 ***
 
@@ -25,3 +25,4 @@ Os valores devem ser exibidos utilizando o formato R$ XXX.XX
 `Exemplo:`
 
 1500.45 = R$ 1500.45
+
